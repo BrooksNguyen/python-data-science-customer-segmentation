@@ -17,3 +17,16 @@ Thumbs.db
 venv/
 env/
 .env
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output and results
+preprocessing_output/
+clustering_results/
+saved_models/
+logs/
