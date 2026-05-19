@@ -1,8 +1,8 @@
 # Customer Segmentation Pipeline 🎯
 *Automated Machine Learning Pipeline for Customer Behavior Analysis*
 
-Dự án cuối kỳ môn **Python cho Khoa học Dữ liệu** - Trường Đại học Khoa học Tự nhiên (HCMUS).
-**Thực hiện bởi:** Nguyễn Phúc Bách, Hoàng Ngọc Duy, Nguyễn Thái Hoàng.
+Đồ án môn học **Python cho Khoa học Dữ liệu** - Khoa Khoa học Dữ liệu, Trường Đại học Khoa học Tự nhiên (HCMUS).
+**Sinh viên thực hiện:** Nguyễn Phúc Bách (MSSV: 23280039)
 
 ## 1. Giới thiệu (Overview)
 Dự án xây dựng một hệ thống (pipeline) tự động hóa hoàn toàn quy trình xử lý và phân cụm dữ liệu khách hàng. Mục tiêu là phân tích hành vi mua sắm, từ đó giúp các chiến dịch marketing mục tiêu (targeted marketing) đạt hiệu quả cao hơn.
