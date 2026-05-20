@@ -1,4 +1,4 @@
-# Customer Segmentation Pipeline 🎯
+# Customer Segmentation Pipeline 
 *Automated Machine Learning Pipeline for Customer Behavior Analysis*
 
 Đồ án môn học **Python cho Khoa học Dữ liệu** - Khoa Khoa học Dữ liệu, Trường Đại học Khoa học Tự nhiên (HCMUS).
